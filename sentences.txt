@@ -1,0 +1,5 @@
+This is the Python Project of 2 students of IIIT Kota.
+This project has been made by Suyash Pandey and Yash Bansal.
+Ankush sir is our mentor of Python.
+Ankush sir has been our constant motivation for this project.
+We have made this project using Pygame and some other libraries in Python.
